@@ -1,6 +1,6 @@
 # Registration Panel in Swing
 
->Application with taken straight from 2009 GUI that enables saving entered by user data from excel spreadsheet.
+>Application with taken straight from 2009 GUI that enables saving entered by user data to the excel spreadsheet.
 
 ## Table of Contents
 * [Funcionality](#funcionality)
